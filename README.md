@@ -66,5 +66,5 @@ You will need to shorten the length of your messages to resolve the issue:
 
 ---
 
-**Do you need help with getting started with the ChatGPT API? Or do you have other questions?**
+**Do you need help with getting started with the ChatGPT API? Or do you have other questions?**<br>
 I'm happy to help, don't hesitate to reach out ➡️ norah@quoter.se
