@@ -63,3 +63,8 @@ This indicates that the input `message_object` sent to the ChatGPT API has excee
 You will need to shorten the length of your messages to resolve the issue:
 
 ![Upgrade OpenAI package](https://d2pwmb8xsybju4.cloudfront.net/posts/2023/chatgpt-api/5_troubleshooting_2.png "Upgrade OpenAI package")
+
+---
+
+**Do you need help with getting started with the ChatGPT API? Or do you have other questions?**
+I'm happy to help, don't hesitate to reach out ➡️ norah@quoter.se
