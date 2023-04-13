@@ -5,6 +5,11 @@
 **Are you looking to build a chatbot that can recommend products to your customers based on their unique profile?**<br>
 Here's a step-by-step guide that shows you how to build a chatbot using embeddings to match a user's profile with relevant products from a company's database.
 
+>**Need tailored AI solutions?**<br>
+>I provide one-on-one collaboration and custom AI services for businesses.
+>
+>Let's find the perfect solution for your challenges: [consulting services](https://norahsakal.com/consulting "(https://norahsakal.com/consulting")
+
 ---
 
 ## Outline
